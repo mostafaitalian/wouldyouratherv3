@@ -7,3 +7,5 @@ function InsideProgress(props){
         <div className='inside-progress' style={{width:`${props.width}%`}}></div>
     )
 }
+
+export default InsideProgress
